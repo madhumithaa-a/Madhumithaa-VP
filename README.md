@@ -11,7 +11,7 @@
 - MySQL
 
 ### 📌 Projects
-- Heart Disease Prediction using ML
+- Spotify Songs’ Genre Segmentation using ML
 
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/madhumithaa-vp-79393a331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
